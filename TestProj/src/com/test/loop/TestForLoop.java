@@ -4,7 +4,7 @@ public class TestForLoop {
 
 	public static void main(String[] args) {
 		
-		String names[] = {"Siva","Raju","Eswar","Gopi","Rajesh","Test","User"};
+		String names[] = {"Siva","Raju","Eswar","Gopi","Rajesh","Test","User","Xyz"};
 
 		//print the names with advanced loop.
 		for(String name : names){
