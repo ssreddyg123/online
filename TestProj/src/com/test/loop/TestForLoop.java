@@ -9,7 +9,9 @@ public class TestForLoop {
 		//print the names with advanced loop.
 		for(String name : names){
 			System.out.println("Name :: "+names);
+			
 		}
+		System.out.println("Name :: "+names);
 
 	}
 
