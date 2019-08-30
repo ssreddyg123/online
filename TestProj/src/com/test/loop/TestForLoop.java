@@ -12,6 +12,7 @@ public class TestForLoop {
 			System.out.println("Name2 :: "+name);
 		}
 		System.out.println("Name :: "+names);
+		System.out.println("Name ********** :: "+names);
 
 	}
 
